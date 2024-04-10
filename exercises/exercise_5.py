@@ -1,1 +1,2 @@
-# Your solution to Exercise 5
+n = int(input("Enter a number: "))
+print(int((1/2)*(n)*(n+1)))
